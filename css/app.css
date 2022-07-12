@@ -8,8 +8,8 @@
     background-color: #1abc9c;
 }
 
-h1 {
-    font-weight: bolder;
+.bold {
+    font-weight: 600;
 }
 
 .portfolio__title {
@@ -32,3 +32,13 @@ h1 {
 .footer__bottom p {
     text-align: center;
 }
+
+.line__star {
+    width: 150px;
+    height: 4px;
+}
+
+.star {
+    font-size: 2rem;
+}
+
