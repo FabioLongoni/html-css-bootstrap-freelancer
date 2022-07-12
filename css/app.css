@@ -8,6 +8,10 @@
     background-color: #1abc9c;
 }
 
+h1 {
+    font-weight: bolder;
+}
+
 .portfolio__title {
     margin-bottom: 1rem;
 }
